@@ -1,0 +1,4 @@
+qwen-agent[mcp,gui]
+fastmcp
+gradio
+requests

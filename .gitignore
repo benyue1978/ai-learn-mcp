@@ -8,3 +8,4 @@
 .env.production.local
 venv/
 workspace/
+__pycache__/
